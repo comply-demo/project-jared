@@ -1,2 +1,2 @@
 # project-jared
-A cool project
+A cool project.
